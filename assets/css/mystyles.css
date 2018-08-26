@@ -1,0 +1,17 @@
+/*Universal CSS classes*/
+.box {
+	border: 10px double white;
+	height: 350px;
+	padding-top: 30px;
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
+body {
+	background-color: black;
+}
+
+p {
+	color: white;
+	text-align: center;
+}
+
